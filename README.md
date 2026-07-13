@@ -190,6 +190,6 @@ graph TD
 
 ## 🚀 Running the Notebook
 You can run this project in Google Colab using a free T4 GPU tier. 
-1. Open the notebook `jlens_llama_colab.ipynb`.
+1. Open the notebook uploaded in this repo.
 2. Follow the cell execution sequentially.
 3. Observe the generated Matplotlib charts and text patching outputs.
